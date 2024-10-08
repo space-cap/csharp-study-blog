@@ -10,7 +10,8 @@
 
   <ItemGroup>
     <Compile Remove="*.cs"/>
-    <Compile Include="write2.cs"/>
+    <Compile Remove="section_1/**/*.cs"/>
+    <Compile Include="section_1/01_using2.cs"/>
   </ItemGroup>
 
 </Project>
