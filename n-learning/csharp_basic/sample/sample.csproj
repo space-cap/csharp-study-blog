@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <NoWarn>0219, 0168, 0414</NoWarn>
+    <NoWarn>0219, 0168, 0414, 8600</NoWarn>
   </PropertyGroup>
 
   <!-- 
